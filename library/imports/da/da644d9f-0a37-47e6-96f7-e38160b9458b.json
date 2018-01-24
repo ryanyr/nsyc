@@ -1,0 +1,56 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "boy.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "slice01_01": {
+      "__uuid__": "25990613-c7e6-4bf7-80a5-cfdf767ae7af"
+    },
+    "slice02_02": {
+      "__uuid__": "eb490ab5-6b5b-4512-b9fb-4b78f5768948"
+    },
+    "slice03_03": {
+      "__uuid__": "b9bf3cfa-5a87-485e-9d4e-b00b1d68627a"
+    },
+    "slice04_04": {
+      "__uuid__": "73aa649d-1f44-477f-8620-7ed889d6edd1"
+    },
+    "slice05_05": {
+      "__uuid__": "a588d780-8608-422c-8c6f-4b0ebfc3d4f4"
+    },
+    "slice06_06": {
+      "__uuid__": "40135fe6-69a5-444f-b6cb-a167745bfd8e"
+    },
+    "slice07_07": {
+      "__uuid__": "239d147f-de64-434d-8b9a-c19bbafba5dd"
+    },
+    "slice08_08": {
+      "__uuid__": "6b106a46-6f74-4f6f-b5ad-ca65fe7da08b"
+    },
+    "slice09_09": {
+      "__uuid__": "c7b37f9b-cccd-44c6-942d-448ff2c7f643"
+    },
+    "slice10_10": {
+      "__uuid__": "7f402719-4078-4d53-9f7c-df2062f94251"
+    },
+    "slice11_11": {
+      "__uuid__": "941f5931-fcd4-45ed-bb8c-51ffffe42c0d"
+    },
+    "slice12_12": {
+      "__uuid__": "3c571e66-657b-4dd1-83e4-d8ca4e17cc3c"
+    },
+    "slice13_13": {
+      "__uuid__": "cf967ebd-40ad-4081-9bf0-8610ad456054"
+    },
+    "slice14_14": {
+      "__uuid__": "084b2aee-f2a0-46ee-92fc-7642c8b7ff06"
+    },
+    "slice15_15": {
+      "__uuid__": "e88b6e1f-2cde-4719-bd88-606e87bf5048"
+    },
+    "slice16_16": {
+      "__uuid__": "b93211ae-cb8a-4dda-a856-271a6306ad56"
+    }
+  }
+}
