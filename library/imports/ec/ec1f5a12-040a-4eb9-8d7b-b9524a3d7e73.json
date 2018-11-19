@@ -1,7 +1,7 @@
 [
   {
     "__type__": "cc.SceneAsset",
-    "_name": "1",
+    "_name": "sample",
     "_objFlags": 0,
     "_rawFiles": null,
     "scene": {
@@ -566,17 +566,17 @@
       "__id__": 13
     },
     "_enabled": true,
-    "_armatureName": "Ar11",
-    "_animationName": "newAnimation_1",
+    "_armatureName": "Ar1",
+    "_animationName": "newAnimation",
     "playTimes": -1,
     "_N$dragonAsset": {
-      "__uuid__": "aecb95d4-d185-407b-a259-ce21a60a9879"
+      "__uuid__": "8b056231-cef6-4cd4-b5ce-41e8c452a507"
     },
     "_N$dragonAtlasAsset": {
-      "__uuid__": "394efb20-fbbe-4ba0-a0e2-3407c3a85b38"
+      "__uuid__": "0c11d2f4-4014-4988-a7cf-47fcf7a4e613"
     },
     "_N$_defaultArmatureIndex": 1,
-    "_N$_animationIndex": 0,
+    "_N$_animationIndex": 2,
     "_N$timeScale": 1,
     "_N$debugBones": false
   },
